@@ -15,6 +15,3 @@ dependencyResolutionManagement {
 rootProject.name = "MyPlayground"
 include ':app'
 include ':core:common'
-include ':core:network'
-include ':core:data'
-include ':feature:topic'
